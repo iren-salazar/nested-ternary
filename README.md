@@ -13,3 +13,6 @@ int main() {
    int max = (a>b) ?  ((a>c) ?  11 : 23 ):    ((b>c) ?  5 : 23) ;
    cout << max << endl;
 }
+ /*output:
+ 23
+ */
